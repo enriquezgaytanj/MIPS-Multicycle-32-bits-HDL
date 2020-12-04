@@ -1,5 +1,14 @@
 MIPS_32bits_Multicycle
 ==============
+Team Members
+--------------
+B.Eng Estefanía Saraí Hernández Zapata
+B.Eng Lizeth Menbrila Huerta
+B.Eng Gerson Alberto García Rodríguez
+M.Sc Jesús Enríquez Gaytán
+Ph.D Juan Fernando Piñal Moctezuma
+
+
 
 Description
 --------------
