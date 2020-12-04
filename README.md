@@ -10,7 +10,7 @@ For more reference of the FPGA, see the Nexys 4 DDR's [Reference Manual](https:/
 
 Requirements
 --------------
-* **Nexys 4 DDR **
+* **Nexys 4 DDR**
 * **Vivado 2020.2 Installation**
 * **MicroUSB Cable**
 
