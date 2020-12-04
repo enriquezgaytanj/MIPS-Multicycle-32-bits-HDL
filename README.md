@@ -28,4 +28,4 @@ For a description of how this MIPS works, read the files in the folder Documents
 
 Additional Notes
 --------------
-In the following link, you could find a descriptive video of MIPS's physical implementation in the FPGA.[Drive google](https://drive.google.com/file/d/1vcZT1HaSXbffHm1zhjFSgZLJB_kZuDvz/view?usp=sharing)
+In the following link, you could find a descriptive video of MIPS's physical implementation in the FPGA. [Drive google](https://drive.google.com/file/d/1vcZT1HaSXbffHm1zhjFSgZLJB_kZuDvz/view?usp=sharing)
